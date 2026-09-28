@@ -10,6 +10,7 @@ If using this code, please reference: ``meg-ham/pyroxene_triplot``
 
 This work is presented in: 
 >Hammett, M. 2025. Formation Conditions of Refractory Inclusions in Chondritic Meteorites: A Study of Natural CAIs and Synthetic Analogues. PhD Thesis.
+
 >Hammett, M., Jones, R. H., Tartèse, R., Cowpe, J. and Hughes, L. 2026. Experimental Constraints on Formation Conditions of Compact Type A and Type B CAIs in CV Chondrites. [in review]
 
 ## License
