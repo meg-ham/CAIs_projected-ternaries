@@ -26,8 +26,8 @@ Installation of the ``ternary`` library is required. However, scripts are short 
 
 ## Python Scripts
 
-**_bulk-triplot.py**_ 
+**_bulk-triplot.py**
 Generates xxxx...
 
-**_pyroxene-triplot.py**_ 
+**_pyroxene-triplot.py** 
 Generates the ternary projected from quartz and enstatite onto the plane Diopside (Di) – Tschermak (Tsch) – Ca-Tschermak (Ca-Tsch), after Stolper (1982).
