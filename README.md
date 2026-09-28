@@ -25,6 +25,9 @@ The project is licensed under the GNU-v3 license.
 Installation of the ``ternary`` library is required. However, scripts are short and designed to be adapted and applied to various problems. Python scripts can be downloaded from this repository and intergrated into pre-existing scripts where such functionality is required.
 
 ## Python Scripts
-_bulk-triplot.py Generates the ternary projected from quartz and enstatite onto the plane Diopside (Di) – Tschermak (Tsch) – Ca-Tschermak (Ca-Tsch), after Stolper (1982).
 
-_pyroxene-triplot.py Generates the ternary projected from quartz and enstatite onto the plane Diopside (Di) – Tschermak (Tsch) – Ca-Tschermak (Ca-Tsch), after Stolper (1982).
+**_bulk-triplot.py**_ 
+Generates xxxx...
+
+**_pyroxene-triplot.py**_ 
+Generates the ternary projected from quartz and enstatite onto the plane Diopside (Di) – Tschermak (Tsch) – Ca-Tschermak (Ca-Tsch), after Stolper (1982).
