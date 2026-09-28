@@ -1,13 +1,13 @@
 # CAIs_projected-ternaries
 
 ## Context
-Stolper (1982) introduced specialised ternary diagrams, projected within the CaO–MgO–Al₂O₃–SiO₂ (CMAS) phase space, to allow the plotting of complex refractory bulk compositions and mineral chemistries, and better understanding of their liquidus phase relationships. Projections and plottable values are calculated from a series of coordinates; however, these calculations require complex **XXX** and not all projected ternary diagrams have publicly available coordinates. 
+Stolper (1982) introduced specialised ternary diagrams, projected within the CaO–MgO–Al₂O₃–SiO₂ (CMAS) phase space, to allow the plotting of complex refractory bulk compositions and mineral chemistries of Ca,Al-rich inclusions (CAIs), and the better understanding of their liquidus phase relationships. Projections and plottable values are calculated from a series of coordinates; however, these calculations require complex **XXX** and not all projected ternary diagrams have publicly available coordinates. 
 
 >Stolper, E. 1982. Crystallization sequences of Ca-Al-rich inclusions from Allende: An experimental study. Geochimica et Cosmochimica Acta, 46(11), p.2159-2180.
 
 _For bulk....:_ **XXX** 
 
-_For CAI pyroxene:_ Pyroxene compositions found in Ca,Al-rich inclusions (CAIs) do not plot onto the classic pyroxene quadrilateral due to high abundances of Ti. Instead, Stolper (1982) designed a ternary plot on which CAI pyroxene chemistry can be projected from quartz and enstatite onto the plane Diopside (Di) – Tschermak (Tsch) – Ca-Tschermak (Ca-Tsch). The coordinates needed to calculate plottable values are not publicly available. We determined these coordinates from XXX, hence could convert pyroxene chemistry into plottable values. 
+_For CAI pyroxene:_ Pyroxene compositions found in CAIs do not plot onto the classic pyroxene quadrilateral due to high abundances of Ti. Instead, Stolper (1982) designed a ternary plot on which CAI pyroxene chemistry can be projected from quartz and enstatite onto the plane Diopside (Di) – Tschermak (Tsch) – Ca-Tschermak (Ca-Tsch). The coordinates needed to calculate plottable values are not publicly available. We determined these coordinates from XXX, hence could convert pyroxene chemistry into plottable values. 
 
 This repository stores the: (1) Excel files used to convert weight percent (wt%) chemistry analyses into plottable values for the **XXX** and pyroxene (pyroxene-triplot) ternary diagrams; (2) Python code used to create the associated ternaries. 
 
