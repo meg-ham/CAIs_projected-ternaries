@@ -56,8 +56,8 @@ for n,i in enumerate(names):
 
     tax.scatter(points, marker=markers[n], s=75, facecolor=fcolors[n], edgecolor=ecolors[n], linewidth=0.3, label=i, zorder=10)
 
-# add legend
-tax.legend(loc='upper left')
+# add legend; this will plot it in the most suitable area of the figure
+tax.legend(loc='best')
 
 # save plots
 ternary.plt.savefig('bulk_triplot', transparent=True)
