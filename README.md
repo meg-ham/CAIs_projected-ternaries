@@ -27,7 +27,7 @@ Installation of the ``ternary`` library is required. However, scripts are short 
 
 ## Python Scripts
 
-**_bulk-triplot.py**
+**_BC-triplot.py**
 Generates the ternary diagram projected from spinel-saturated liquidus onto the forsterite (Fo) - anorthite (An) – gehlenite (Geh) plane.
 
 **_pyroxene-triplot.py** 
