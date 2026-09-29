@@ -10,7 +10,7 @@ import numpy as np
 
 # import Excel (.xlsx) file with plottable values [os = Mac version]
 import os
-f = os.path.expanduser('~/Desktop/Excel Conversion [bulk_triplot].xlsx')
+f = os.path.expanduser('~/Desktop/Excel Conversion [BC_triplot].xlsx')
 df = pd.read_excel(f)
 
 # define visual parameters and plot space
@@ -27,7 +27,7 @@ tax.set_background_color(color="none", alpha=0)
 
 # set axis labels and title
 fontsize = 11
-tax.set_title("Pyroxene Compositions (wt%) projected\nfrom Enstatite and Quartz\n\n(All Ti as Ti4+)\n", loc='left', fontsize=fontsize, fontweight="bold")
+tax.set_title("Spinel-saturated liquidus phase fields\nprojected from spinel\n\n(All Ti as Ti4+)\n", loc='left', fontsize=fontsize, fontweight="bold")
 tax.right_corner_label("Fo", fontsize=fontsize, offset=0.14, fontweight="bold")
 tax.top_corner_label("An", fontsize=fontsize, offset=0.17, fontweight="bold")
 tax.left_corner_label("Geh", fontsize=fontsize, offset=0.14, fontweight="bold")
