@@ -60,7 +60,7 @@ for n,i in enumerate(names):
 tax.legend(loc='best')
 
 # save plots
-ternary.plt.savefig('bulk_triplot', transparent=True)
+ternary.plt.savefig('BC_triplot', transparent=True)
 
 # show plots
 ternary.plt.show()
